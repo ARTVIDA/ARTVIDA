@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	thumbPosition="BOTTOM"
+	thumbRows="1"
+	thumbColumns="6"
+	showOpenButton="true"
+	showFullscreenButton="true"
+	backgroundTransparent="true"
+	backgroundColor="FEF8E8"
+	textColor="FEF8E8"
+	frameColor="000000"
+	frameWidth="10"
+	galleryStyle="MODERN"
+	indexPageName="photos.html"
+
+>
+  <image imageURL="images/ARTVIDA7011bdef.jpg"
+	thumbURL="thumbs/ARTVIDA7011bdef.jpg"
+	linkURL="images/ARTVIDA7011bdef.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Photo Bruno Pantel]]></caption>
+  </image>
+  <image imageURL="images/artvida_2011.jpg"
+	thumbURL="thumbs/artvida_2011.jpg"
+	linkURL="images/artvida_2011.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Photo Bruno Pantel]]></caption>
+  </image>
+  <image imageURL="images/ARTVIDA_BATEAU.jpg"
+	thumbURL="thumbs/ARTVIDA_BATEAU.jpg"
+	linkURL="images/ARTVIDA_BATEAU.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Photo Bruno Pantel]]></caption>
+  </image>
+  <image imageURL="images/ARTVIDA_CAMARGUE.jpg"
+	thumbURL="thumbs/ARTVIDA_CAMARGUE.jpg"
+	linkURL="images/ARTVIDA_CAMARGUE.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Photo Bruno Pantel]]></caption>
+  </image>
+  <image imageURL="images/artvida.JPG"
+	thumbURL="thumbs/artvida.JPG"
+	linkURL="images/artvida.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Tlemcen (Algérie)]]></caption>
+  </image>
+  <image imageURL="images/IMG_2778.JPG"
+	thumbURL="thumbs/IMG_2778.JPG"
+	linkURL="images/IMG_2778.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[La Grange (Causse de la Selle)]]></caption>
+  </image>
+  <image imageURL="images/p5010059.jpg"
+	thumbURL="thumbs/p5010059.jpg"
+	linkURL="images/p5010059.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[L'Atelier du Nord (Montpellier)]]></caption>
+  </image>
+</simpleviewergallery>
